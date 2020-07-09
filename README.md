@@ -8,4 +8,6 @@
 
 ### [비트코인 실습](https://github.com/i3629i/Block_Chain_fileing/blob/master/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%20%EC%8B%A4%EC%8A%B5.md)
 
-### [하이퍼레저 구조1]https://github.com/i3629i/Block_Chain_fileing/blob/master/Hyperledger%20Fabric%20%EC%A0%95%EB%A6%AC1.md
+### [하이퍼레저 구조1](https://github.com/i3629i/Block_Chain_fileing/blob/master/Hyperledger%20Fabric%20%EC%A0%95%EB%A6%AC1.md)
+
+### [하이퍼레저 구조2]
