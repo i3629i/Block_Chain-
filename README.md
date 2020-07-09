@@ -10,4 +10,4 @@
 
 ### [하이퍼레저 구조1](https://github.com/i3629i/Block_Chain_fileing/blob/master/Hyperledger%20Fabric%20%EC%A0%95%EB%A6%AC1.md)
 
-### [하이퍼레저 구조2]
+### [하이퍼레저 구조2](https://github.com/i3629i/Block_Chain_fileing/blob/master/Hyperledger%20Fabric%20%EC%A0%95%EB%A6%AC2.md)
