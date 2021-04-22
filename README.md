@@ -1,6 +1,8 @@
+![block](https://user-images.githubusercontent.com/50629716/115645366-33b84d80-a35b-11eb-894a-89ae30b74bc9.jpg)
+
 # 블록체인 정리
 
-### [블록체인-기초정리](https://github.com/i3629i/Block_Chain_fileing/blob/master/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EA%B8%B0%EC%B4%88.md)
+### [블록체인-기초정리(비트코인과 )](https://github.com/i3629i/Block_Chain_fileing/blob/master/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EA%B8%B0%EC%B4%88.md)
 
 ### [블록체인-이론1](https://github.com/i3629i/Block_Chain_fileing/blob/master/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EC%9D%B4%EB%A1%A0.md)
 
